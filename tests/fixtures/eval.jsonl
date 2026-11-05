@@ -1,0 +1,51 @@
+{"query": "hi", "expected": "greeting"}
+{"query": "hello there", "expected": "greeting"}
+{"query": "namaste", "expected": "greeting"}
+{"query": "hey", "expected": "greeting"}
+{"query": "good morning", "expected": "greeting"}
+{"query": "what can you do", "expected": "help"}
+{"query": "help me please", "expected": "help"}
+{"query": "show me the menu", "expected": "help"}
+{"query": "options", "expected": "help"}
+{"query": "what internships do you offer", "expected": "internship_list"}
+{"query": "list of domains", "expected": "internship_list"}
+{"query": "available tracks", "expected": "internship_list"}
+{"query": "which internship domains are there", "expected": "internship_list"}
+{"query": "how do i get my offer letter", "expected": "offer_letter"}
+{"query": "where is my offer letter pdf", "expected": "offer_letter"}
+{"query": "download offer letter", "expected": "offer_letter"}
+{"query": "when will i get my offer letter", "expected": "offer_letter"}
+{"query": "offer letter download link", "expected": "offer_letter"}
+{"query": "how to submit tasks", "expected": "task_submission"}
+{"query": "where do i submit my project", "expected": "task_submission"}
+{"query": "how to upload github link", "expected": "task_submission"}
+{"query": "submit linkedin post link", "expected": "task_submission"}
+{"query": "task submission form", "expected": "task_submission"}
+{"query": "when will i get my certificate", "expected": "certificate"}
+{"query": "certificate release date", "expected": "certificate"}
+{"query": "iso certificate with qr", "expected": "certificate"}
+{"query": "how to get verified certificate", "expected": "certificate"}
+{"query": "verification fee amount", "expected": "verification_fee"}
+{"query": "how much is the verification fee", "expected": "verification_fee"}
+{"query": "pay 99 rupees for certificate", "expected": "verification_fee"}
+{"query": "easypaisa 400 pkr", "expected": "verification_fee"}
+{"query": "where is the whatsapp group", "expected": "whatsapp_group"}
+{"query": "join cohort whatsapp", "expected": "whatsapp_group"}
+{"query": "telegram channel link", "expected": "whatsapp_group"}
+{"query": "mentor support group", "expected": "whatsapp_group"}
+{"query": "task deadline", "expected": "deadline"}
+{"query": "when is the task due", "expected": "deadline"}
+{"query": "last date for submission", "expected": "deadline"}
+{"query": "due date for tasks", "expected": "deadline"}
+{"query": "refund policy", "expected": "refund_policy"}
+{"query": "can i cancel my payment", "expected": "refund_policy"}
+{"query": "money back for verification fee", "expected": "refund_policy"}
+{"query": "thank you", "expected": "thanks"}
+{"query": "thanks a lot", "expected": "thanks"}
+{"query": "appreciate it", "expected": "thanks"}
+{"query": "bye", "expected": "goodbye"}
+{"query": "goodbye see you", "expected": "goodbye"}
+{"query": "exit", "expected": "goodbye"}
+{"query": "quit", "expected": "goodbye"}
+{"query": "xyzzy flummox", "expected": "fallback"}
+{"query": "asdf jkl", "expected": "fallback"}

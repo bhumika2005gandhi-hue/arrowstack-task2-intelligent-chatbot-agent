@@ -1,0 +1,12 @@
+# Arrowstack AI Internship - Task 2 dependencies
+# Tested on Python 3.10, 3.11, and 3.12
+
+# Numeric core
+numpy>=1.24.0
+
+# Testing
+pytest>=7.4.0
+
+# Note: this task is intentionally dependency-light. The TF-IDF + cosine
+# similarity matcher is implemented from scratch on NumPy; no scikit-learn,
+# no transformers, no LLM API keys required.

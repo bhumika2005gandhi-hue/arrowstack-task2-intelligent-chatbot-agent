@@ -1,0 +1,29 @@
+{
+  "domain": "Arrowstack Virtual Internships",
+  "batch": "2026",
+  "organisation": "Arrowstack",
+  "support_email": "support@arrowstack.in",
+  "verification_fee_inr": 99,
+  "verification_fee_pkr": 400,
+  "cohort_duration_weeks": 4,
+  "certificate_seal": "ISO 9001:2015 Digital Seal & QR",
+  "official_channels": [
+    "WhatsApp",
+    "YouTube",
+    "Telegram",
+    "Instagram",
+    "LinkedIn",
+    "X",
+    "Facebook"
+  ],
+  "internship_domains_sample": [
+    "Artificial Intelligence",
+    "Cloud Computing",
+    "Full Stack Development",
+    "Frontend Development",
+    "Data Science",
+    "DevOps",
+    "Cybersecurity",
+    "Mobile Development"
+  ]
+}
